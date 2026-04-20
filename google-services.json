@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "235582827759",
+    "firebase_url": "https://pianovisualization06-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pianovisualization06",
+    "storage_bucket": "pianovisualization06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235582827759:android:2e113e8359617384457f1a",
+        "android_client_info": {
+          "package_name": "com.example.pianovisualization"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRksDcuFtjvRmZlNW429uIBly8MX3g04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
